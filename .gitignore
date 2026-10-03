@@ -1,0 +1,37 @@
+﻿# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+dist/
+vendor/
+
+# Wails
+build/
+frontend/node_modules/
+frontend/dist/
+frontend/wailsjs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Launcher runtime
+.zompy/
+*.log
+config.json
+accounts.json
+
+# Drafts
+*.draft
